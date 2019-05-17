@@ -1,6 +1,6 @@
 # KJPS 2019
 
-Uzdevums ir izdomāt un implementēt ar CSS, HTML, JavaScript palīdzību izglītojošu spēli bērniem pirmskolas vecumā.
+Uzdevums ir izdomāt un implementēt ar CSS, HTML, JavaScript palīdzību izglītojošu spēli bērniem pirmskolas vecumā. Uzdevumi tiks publicēti - https://kids.clevercode.lv/
 
 ## Piemēri
 
