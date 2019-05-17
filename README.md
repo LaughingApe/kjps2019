@@ -15,3 +15,12 @@ Uzdevums ir izdomāt un implementēt ar CSS, HTML, JavaScript palīdzību izglī
 * Atlikuma kalkulators - dota dalīšanas izteiksme, jāieraksta rezultāts.
 * Programmēšanas uzdevums (cikls) - dots N, jāuzraksta javascript kods, kurš aprēķina N fibonačī vērtību un ieraksta to konkrētā mainīgajā.
 * Figūras - ar webgl uzzīmē 3 daudzstūrus. Ir jāuzklikšķina uz daudzstūri ar konkrētu stūru skaitu.
+
+## Tehnoloģijas
+
+Jāizmanto pamatā klienta puses tehnoloģijas. Tālāk sekos ieteicamo tehnoloģiju saraksts.
+
+* HTML - https://www.w3schools.com/html/default.asp
+* CSS - https://www.w3schools.com/css/default.asp
+* JavaScript - https://www.w3schools.com/js/default.asp
+* WebGL - https://www.w3schools.com/graphics/default.asp
