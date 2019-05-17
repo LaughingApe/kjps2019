@@ -26,3 +26,16 @@ Jāizmanto pamatā klienta puses tehnoloģijas. Tālāk sekos ieteicamo tehnolo�
 * WebGL - https://www.w3schools.com/graphics/default.asp
 * Bootstrap - https://www.w3schools.com/bootstrap4/default.asp
 * jQuery - https://www.w3schools.com/jquery/default.asp
+
+## Vērtēšana
+
+Uzdevumi tiks vērtēti. Vērtēšana notiks pēc sekojošiem faktoriem 3 baļļu sistēmā.
+
+* Dizains - ieteicams piedomāt, kā spēle iederās mājaslapā dizainiski.
+* Idejas oriģinalitāte.
+* Tehnoloģijas - uzsvars nav uz kvantitāti bet kvalitāti.
+* Lietotāja saskarnes ērtums.
+* Koda kvalitāte - cik kods ir labi organizēts un saprotams.
+* Funkcionalitāte - cik daudz sintaktiskas un semantiskas kļūdas ir redzamas.
+* Vecuma koeficients - <rezultāts> * sqrt(<vecākā dalībnieka vecums> - <jaunākā dalībnieka vecums komandā>).
+* Neatkarīgā eksperta vērtējums.
