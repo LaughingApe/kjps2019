@@ -24,3 +24,5 @@ J훮izmanto pamat훮 klienta puses tehnolo친ijas. T훮l훮k sekos ieteicamo tehnolo�
 * CSS - https://www.w3schools.com/css/default.asp
 * JavaScript - https://www.w3schools.com/js/default.asp
 * WebGL - https://www.w3schools.com/graphics/default.asp
+* Bootstrap - https://www.w3schools.com/bootstrap4/default.asp
+* jQuery - https://www.w3schools.com/jquery/default.asp
